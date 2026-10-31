@@ -1,0 +1,6 @@
+{
+  "name": "NOVAAI – AI Assistant, Notes Library & ATS CV Maker",
+  "description": "Multilingual AI study and career platform featuring real-time streaming chat, an academic notes library with instant preview, and an ATS-friendly CV builder.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
